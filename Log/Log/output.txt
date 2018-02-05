@@ -1,0 +1,12 @@
+2017/12/14 14:42:15:81128180
+[ERROR][d:\mine\codes\cpp\printlog\log\log\types.cpp:45]HELLO WORLD
+2017/12/14 14:42:36:16624704
+[DEBUG][d:\mine\codes\cpp\printlog\log\log\types.cpp:16]HELLO WORLD
+2017/12/14 14:42:36:17124704
+[INFO][d:\mine\codes\cpp\printlog\log\log\types.cpp:33]HELLO WORLD
+2017/12/14 14:42:36:17524704
+[ERROR][d:\mine\codes\cpp\printlog\log\log\types.cpp:45]HELLO WORLD
+2017/12/14 14:45:39:47727628
+[DEBUG][d:\mine\codes\cpp\printlog\log\log\types.cpp:17]HELLO WORLD
+2017/12/14 14:45:39:48627628
+[ERROR][d:\mine\codes\cpp\printlog\log\log\types.cpp:47]HELLO WORLD

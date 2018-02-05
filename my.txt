@@ -1,0 +1,6 @@
+2018/02/05 15:47:27:565 32496 [DEBUG][d:\mine\codes\cpp\printlog\log\log\types.cpp:16]HELLO WORLD
+2018/02/05 15:47:27:566 32496 [INFO][d:\mine\codes\cpp\printlog\log\log\types.cpp:33]HELLO WORLD
+2018/02/05 15:47:27:567 32496 [ERROR][d:\mine\codes\cpp\printlog\log\log\types.cpp:44]HELLO WORLD
+2018/02/05 15:47:28:677 28820 [DEBUG][d:\mine\codes\cpp\printlog\log\log\types.cpp:16]HELLO WORLD
+2018/02/05 15:47:28:677 28820 [INFO][d:\mine\codes\cpp\printlog\log\log\types.cpp:33]HELLO WORLD
+2018/02/05 15:47:28:677 28820 [ERROR][d:\mine\codes\cpp\printlog\log\log\types.cpp:44]HELLO WORLD
